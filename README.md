@@ -10,3 +10,13 @@ Generative models experiments for generating a new [Miguel (joabreu)](https://gi
 ## Notes
 
 A single image was used for training, image augmentation using `torchvision` was performed to enhance results.
+
+## Results
+
+### CNN-based VAE
+
+![](./images/vae-cnn.png)
+
+### Linear-based VAE
+
+![](./images/vae-linear.png)
